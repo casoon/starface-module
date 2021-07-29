@@ -1,12 +1,13 @@
-# Starface Module > Call Routing
+<p align="center">
+  <h3 align="center">Starface Modul > Group Forward with Clip No Screening Support</h3>
 
-Das Modul erlaubt es eingehende Anrufe basierend auf einem Pattern an eine interne Nummer (Benutzer oder Gruppe) weiterzuleiten.
-Enstanden ist das Modul als Vorbereitung für eine Erweiterung von [connect](https://connect.smea.cloud/).  
-## Getting Started
+  <p align="center">
+    <a href="https://github.com/casoon/starface-module/issues">Report a Playground Bug</a>
+    ·
+    <a href="https://github.com/casoon/starface-module/issues">Request a Playground Feature</a>
+  </p>
 
-Das Modul muss nur installiert werden und hat keine Abhängigkeiten. Entwickelt und getestet wurde auf einer Starface mit der Version 6.7.
-
-## License
-
-MIT License
-
+  <p>
+    Das Modul erlaubt es eingehende Anrufe basierend auf einem Pattern an eine interne Nummer (Benutzer oder Gruppe) weiterzuleiten.
+  </p>
+</p>
